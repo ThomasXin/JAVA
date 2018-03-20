@@ -1,0 +1,16 @@
+package com.keke;
+
+public class HelloWorld {
+	
+	public static void main(String[] args) {
+		System.out.println("ÄãºÃ");
+		int i = 1;
+		float d = 1.5f ;
+		double s = 1.7d ;
+		System.out.println(i);
+		System.out.println(d);
+		System.out.println(s);
+	}
+
+}
+

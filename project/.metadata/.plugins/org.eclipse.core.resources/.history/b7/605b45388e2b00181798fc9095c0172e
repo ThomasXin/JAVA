@@ -1,0 +1,12 @@
+package com.keke;
+
+public class HelloWorld {
+	
+	public static void main(String[] args) {
+		System.out.println("ÄãºÃ");
+		int i = 1;
+		float d = 1.5 ;
+		System.out.println(i);
+	}
+
+}

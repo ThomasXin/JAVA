@@ -1,0 +1,11 @@
+package com.keke;
+
+public class HelloWorld {
+	
+	public static void main(String[] args) {
+		System.out.println("ÄãºÃ");
+		int i = 1;
+		System.out.println(i);
+	}
+
+}
